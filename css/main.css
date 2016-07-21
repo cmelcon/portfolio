@@ -1,6 +1,6 @@
 img{
   width: 100%;
-  heigth: auto;
+  height: 300px;
 }
 
 a{
@@ -10,4 +10,9 @@ a{
 h2.center{
   text-align: center;
   padding-bottom: 20px;
+}
+
+.facebook{
+  width: 5%;
+  margin: 0 auto 15px;
 }
